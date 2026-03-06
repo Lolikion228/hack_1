@@ -6,7 +6,7 @@
 На момент написания этого текста топ-1 скор равен 0.85534 \
 А с помощью предоставленного бейслайна на основе catboost можно получить 0.74084 \
 \
-На всякий случай ссылки на копии на Kaggle:\
-https://www.kaggle.com/code/lolikion228/hack-main-feats\
-https://www.kaggle.com/code/lolikion228/hack-extra-feats\
+На всякий случай ссылки на копии на Kaggle: \
+https://www.kaggle.com/code/lolikion228/hack-main-feats \
+https://www.kaggle.com/code/lolikion228/hack-extra-feats \
 https://www.kaggle.com/code/lolikion228/hack-learning
